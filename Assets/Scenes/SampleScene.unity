@@ -26988,6 +26988,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1734476496333080442, guid: 2cef61ad18eedef47b7b0297abe1f63d, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2058065661384726429, guid: 2cef61ad18eedef47b7b0297abe1f63d, type: 3}
       propertyPath: m_Name
       value: Mr. Bronze (Player)
@@ -26998,7 +27002,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8717082719643772381, guid: 2cef61ad18eedef47b7b0297abe1f63d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.33
+      value: -0.72
       objectReference: {fileID: 0}
     - target: {fileID: 8717082719643772381, guid: 2cef61ad18eedef47b7b0297abe1f63d, type: 3}
       propertyPath: m_LocalPosition.z
